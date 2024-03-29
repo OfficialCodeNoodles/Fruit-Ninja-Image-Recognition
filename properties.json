@@ -1,0 +1,9 @@
+{
+    "gameScreenLeft": 400,
+    "gameScreenTop": 0,
+    "gameScreenWidth": 1760,
+    "gameScreenHeight": 1440,
+    "gameScreenScale": 1.0,
+    "recordVideo": true,
+    "recordSamplingPoints": false
+}
