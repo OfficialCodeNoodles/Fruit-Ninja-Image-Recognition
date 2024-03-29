@@ -15,8 +15,6 @@ def slice(x1: float, y1: float, x2: float, y2: float):
     pyautogui.mouseUp(_pause=False)
     pyautogui.sleep(0.01)
 def sliceFruits(fruits: list, bombs: list):
-    global slicingThread
-
     if len(fruits) > 0:
         # Minimum distance required between a fruit and the bombs that can be sliced
         minFruitBombDistance = scaleComponent(400.0)
